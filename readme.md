@@ -37,7 +37,16 @@ Demo Video Link : (https://drive.google.com/file/d/1qZz5L6oeI_aXGrX5qmyh2zRQB4Gx
    - Integration with **Twilio WhatsApp API** to send real-time notifications and updates for hire requests.
 
 ---
+### Steps to Set Up
 
+**Install Dependencies**
+
+   Before setting up environment variables, ensure all dependencies are installed by running in all three folders : Frontend , Backend , Admin Panel :
+
+   ```bash
+   npm install
+   ```
+   
 ## Setting Up Environment Variables
 To run the **Talent Hub** project, you'll need to set up a `.env` file with the necessary environment variables.
 
