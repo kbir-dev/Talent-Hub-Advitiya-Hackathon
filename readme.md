@@ -1,5 +1,15 @@
 # Talent Hub Project
 
+**Team Name : Code Warriors**
+
+**Team Members :**
+
+Karanbir Singh
+Amandeep Singh
+Manish Choudhary
+Amanjot Singh
+Arshpreet Kaur
+
 ## Overview
 **Talent Hub** is a platform designed to streamline the hiring process by connecting job seekers and employers in a centralized space. It provides tools for managing talent and hire requests efficiently.
 
