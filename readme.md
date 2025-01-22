@@ -118,4 +118,8 @@ npm run panel
 
 Use ports only localhost:5173 and localhost:5174 for Frontend and Admin Panel as in CORS only those two ports are allowed.
 
+Also As we didn't do regular commits in Github , we are really sorry for that , to see where we were in development at start , you can check this out :
+
+(https://github.com/kbir-dev/Talent-Hub)
+
 Thank You!
