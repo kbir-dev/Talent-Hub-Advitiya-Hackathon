@@ -104,3 +104,18 @@ To run the **Talent Hub** project, you'll need to set up a `.env` file with the 
 After setting up the environment variables, start the backend using the following command:
 ```bash
 npm start
+```
+## Running the Frontend 
+start the frontend using the following command:
+```bash
+npm run dev
+```
+## Running the Admin Panel
+start the frontend using the following command:
+```bash
+npm run panel 
+```
+
+Use ports only localhost:5173 and localhost:5174 for Frontend and Admin Panel as in CORS only those two ports are allowed.
+
+Thank You!
