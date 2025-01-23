@@ -132,7 +132,7 @@ npm run dev
 ## Running the Admin Panel
 start the frontend using the following command:
 ```bash
-npm run panel 
+npm run admin-panel 
 ```
 
 Use ports only localhost:5173 and localhost:5174 for Frontend and Admin Panel as in CORS only those two ports are allowed.
